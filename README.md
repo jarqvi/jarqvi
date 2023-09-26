@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jarqvi&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <picture>
   <source
