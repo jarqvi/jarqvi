@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! My name is MohammadHasan Akbari and I'm a back-end programmer who currently works with NodeJS. Although I'm not a very experienced professional yet, I'm determined to become one. I have some knowledge of PHP and C# programming languages, and I'm also familiar with front-end development.<br><br>In the future, I'm excited to explore different fields such as artificial intelligence, network, and blockchain 🤖🌐⛓️, and I can't wait to share my progress and projects with the Github community!<br>I also plan to learn TypeScript and Go for the backend in the future.<br>I'm excited to be part of the Github community and learn from other developers while sharing my own knowledge and experiences. Thank you for taking the time to read about me.🙏
+👋 Hi there! I'm MohammadHasan, a backend developer working with Go, JavaScript (NodeJS), and TypeScript. Although I'm not highly experienced yet, I'm passionate about advancing my skills. I have knowledge in Python, PHP and C#, and I'm currently exploring DevOps alongside backend development.
+
+I look forward to contributing to the Github community, sharing my projects, and learning from fellow developers. Learning TypeScript and Go for backend development is on my roadmap. Thank you for taking the time to get to know me. 🙏
 
 
 ## 🌐 Socials:
