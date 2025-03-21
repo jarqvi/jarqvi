@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm MohammadHasan, a backend developer working with Go, JavaScript (NodeJS), and TypeScript. Although I'm not highly experienced yet, I'm passionate about advancing my skills. I have knowledge in Python, PHP and C#, and I'm currently exploring DevOps and Rust alongside backend development.<br><br>I look forward to contributing to the Github community, sharing my projects, and learning from fellow developers. Learning TypeScript and Go for backend development is on my roadmap. Thank you for taking the time to get to know me. 🙏
+👋 Hi there! I'm MohammadHasan, a backend developer working with Go, JavaScript (NodeJS), and TypeScript. I'm passionate about advancing my skills. I have knowledge in Python, PHP and C#, and I'm currently exploring DevOps and Rust alongside backend development.<br><br>I look forward to contributing to the Github community, sharing my projects, and learning from fellow developers. Learning TypeScript and Go for backend development is on my roadmap. Thank you for taking the time to get to know me. 🙏
 
 
 ## 🌐 Socials:
